@@ -59,4 +59,10 @@ If you have a suggestion that would make this better, please fork the repository
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## Contact
+
+Your Name - [@iambaig0_0](https://twitter.com/iambaig0_0) - work.mohammadbaig@gmail.com
+
+Project Link: [https://github.com/your-username/sorting-visualizer](https://github.com/your-username/sorting-visualizer)
+
 ---
