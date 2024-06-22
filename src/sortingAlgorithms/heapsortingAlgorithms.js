@@ -54,3 +54,6 @@ const heapify = (mainArray, n, i, animations) => {
         heapify(mainArray, n, largest, animations);
     }
 };
+
+
+
